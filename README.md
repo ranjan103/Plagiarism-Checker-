@@ -1,2 +1,2 @@
 # Plagiarism-Checker-
-Using KMP Algorithm
+Using Rabin Karp Algorithm
